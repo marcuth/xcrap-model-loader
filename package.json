@@ -1,0 +1,19 @@
+{
+  "name": "xcrap-model-loader",
+  "version": "0.0.1",
+  "description": "",
+  "types": "./dist/index.d.ts",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["xcrap", "parsing model", "transformation model"],
+  "author": "Marcuth",
+  "license": "MTI",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "xcrap": "^1.16.3"
+  }
+}
