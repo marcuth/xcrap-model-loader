@@ -9,7 +9,7 @@
   },
   "keywords": ["xcrap", "parsing model", "transformation model"],
   "author": "Marcuth",
-  "license": "MTI",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.13.5",
     "ts-node": "^10.9.2",
